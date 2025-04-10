@@ -996,15 +996,10 @@ IMAGE_FOLDERS = {'images': 'images'}
 #     ("icon", "/favicon.ico", "16x16"),
 #     ("icon", "/icon_128x128.png", "128x128"),
 # )
-#FAVICONS = "icon", "/images/favicon-flag-16x16.png", "16x16"
-"""
+# * FAVICONS = "icon", "/images/favicon-flag-16x16.png", "16x16"
 FAVICONS = (
-    ("icon", "/images/favicon-flag.svg", "16x16"),
-    ("icon", "/images/favicon-flag-16x16.png", "16x16"),
-    ("icon", "/images/favicon-flag-32x32.png", "32x32"),
-    ("icon", "/images/favicon-flag-48x48.png", "48x48"),
+     ("icon", "/images/favicon-flag.svg", "16x16"),     
 )
-"""
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 # INDEX_TEASERS = False
 
