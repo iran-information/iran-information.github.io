@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# Enabled 3 items regarding updates
 import time
 
 # !! This is the configuration of Nikola. !! #
