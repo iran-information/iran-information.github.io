@@ -1,0 +1,4 @@
+Sitemap: https://iran-information.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: iran-information.github.io
