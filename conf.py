@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 # Enabled 3 items regarding updates
+# Pages Build an Deployment src /root was main
+# Actions General: Workflow permission allow read/write was read
 import time
 
 # !! This is the configuration of Nikola. !! #
