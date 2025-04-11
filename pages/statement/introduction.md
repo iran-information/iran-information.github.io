@@ -135,7 +135,7 @@ The following are links to the statements by the Iranian representative at these
           <p><a href="https://www.un.org/press/en/2006/sc8792.doc.htm?direct=true">SC/8792</a></p>
         </td>
         <td class="c4">
-          <p><a href="https://www.undocs.org/en/S/RES/1696(2006)?direct=true?direct=true">S/RES/1696 (2006)</a></p>
+          <p><a href="https://www.undocs.org/en/S/RES/1696(2006)?direct=true?">S/RES/1696 (2006)</a></p>
         </td>
         <td class="c4">
           <p>14-1-0</p>
