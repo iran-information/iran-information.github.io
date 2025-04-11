@@ -34,7 +34,7 @@ The following are links to their statements:
 * 2023-12-18 UNSC 9511th Meeting [Mr. Iravani](/statement1/2023-12-18-pv9511.ip/)
 * 2024-06-24 UNSC 9666th Meeting [Mr. Iravani](/statement1/2024-06-24-pv9666-ip/)
 * 2024-12-17 UNSC 9818th Meeting [Mr. Iravani](/statement1/2024-12-17-pv9818-ip/)
-* 2025-03-12 UNSC 9877th Meeting [Mr. Iravani](/statement1/2025-03-12-pv-iranian-mfa-ip/)
+* 2025-03-12 UNSC 9877th Meeting [Mr. Iravani](/statement1/2025-03-12-pv9877-closed-ip/)
 
 <!--
 Mohammad Khazaee https://en.wikipedia.org/wiki/Mohammad_Khazaee
@@ -492,7 +492,7 @@ https://en.wikipedia.org/wiki/Permanent_Representative_of_Iran_to_the_United_Nat
         <td class="c4"></td>
         <td class="c4"></td>
         <td class="c5">
-          <p><a href="/statement1/2025-03-12-pv-iranian-mfa-ip/"> Mr. Iravani</a></p>
+          <p><a href="/statement1/2025-03-12-pv9877-closed-ip/"> Mr. Iravani</a></p>
         </td>                
       </tr>                       
     <!-- Tail -->  
