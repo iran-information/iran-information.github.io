@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
-# Enabled 3 items regarding updates
-# Actions General: Workflow permission allow read/write and SAVE. was read
+#
 import time
 
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
-
 
 # ! Some settings can be different in different languages.
 # ! A comment stating (translatable) is used to denote those.
