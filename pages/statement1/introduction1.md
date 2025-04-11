@@ -23,15 +23,15 @@ the Iranian representatives delivered a statement.
 The following are links to their statements:
 
 * 2018-12-12 UNSC 8418th Meeting [Mr. Al Habib](/statement1/2018-12-12-pv8418-ip/)
-* 2019-06-26 UNSC 8564th Meeting [Mr. Takht-Ravanchi ](/statement1/2019-06-26-pv8564.ip/)
+* 2019-06-26 UNSC 8564th Meeting [Mr. Takht-Ravanchi ](/statement1/2019-06-26-pv8564-ip/)
 * 2019-12-19 UNSC 8695th Meeting [Mr. Takht-Ravanchi](/statement1/2019-12-19-pv8695-ip/)
 * 2020-08-14 UNSC Draft Resolution [Mr. Takht-Ravanchi](/statement1/2020-08-17-res-draft-2020-805-ip/)
 * 2021-06-30 UNSC 8811th Meeting [Mr. Takht-Ravanchi](/statement1/2021-06-30-pv8811-ip/)
 * 2021-12-14 UNSC 8930th Meeting [Mr. Takht-Ravanchi](/statement1/2021-12-14-pv8930-ip/)
 * 2022-06-30 UNSC 9085th Meeting [Mr. Takht-Ravanchi](/statement1/2022-06-30-pv9085-ip/)
 * 2022-12-19 UNSC 9225th Meeting [Mr. Iravani](/statement1/2022-12-19-pv9225-ip/)
-* 2023-07-06 UNSC 9367th Meeting [Mr. Iravani](/statement1/2023-07-06-pv9367.ip/)
-* 2023-12-18 UNSC 9511th Meeting [Mr. Iravani](/statement1/2023-12-18-pv9511.ip/)
+* 2023-07-06 UNSC 9367th Meeting [Mr. Iravani](/statement1/2023-07-06-pv9367-ip/)
+* 2023-12-18 UNSC 9511th Meeting [Mr. Iravani](/statement1/2023-12-18-pv9511-ip/)
 * 2024-06-24 UNSC 9666th Meeting [Mr. Iravani](/statement1/2024-06-24-pv9666-ip/)
 * 2024-12-17 UNSC 9818th Meeting [Mr. Iravani](/statement1/2024-12-17-pv9818-ip/)
 * 2025-03-12 UNSC 9877th Meeting [Mr. Iravani](/statement1/2025-03-12-pv9877-closed-ip/)
