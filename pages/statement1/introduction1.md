@@ -281,7 +281,7 @@ https://en.wikipedia.org/wiki/Permanent_Representative_of_Iran_to_the_United_Nat
         <td class="c4"></td>
         <td class="c4"></td>
         <td class="c5">
-          <p><a href="/statement1/2019-12-26-pv8564-ip/">Mr. Takht-Ravanchi</a></p>
+          <p><a href="/statement1/2019-12-19-pv8695-ip/">Mr. Takht-Ravanchi</a></p>
         </td>        
       </tr>
             
@@ -391,7 +391,7 @@ https://en.wikipedia.org/wiki/Permanent_Representative_of_Iran_to_the_United_Nat
         <td class="c4"></td>
         <td class="c4"></td>        
         <td class="c5">
-          <p><a href="/statement1/2022-06-30-pv9225-ip/">Mr. Takht-Ravanchi</a></p>
+          <p><a href="/statement1/2022-12-19-pv9225-ip/">Mr. Takht-Ravanchi</a></p>
         </td>
       </tr>
       
