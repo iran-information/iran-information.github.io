@@ -1,0 +1,1033 @@
+---
+title: Introduction to Iran Statements at UNSC Meetings 2006 to 20 July 2015
+slug: introduction
+date: 2025-04-01 00:00:00 UTC-00:00
+tags: 
+category: 
+link: 
+description: Introduction to the UNSC Meetings
+type: text
+hidetitle: false
+---
+
+<!-- Requires backcolor to over-ride main table default style -->
+<table><tr>
+  <th scope="col" style="width: 50px; background-color: #ffffff;"><a href="/en/">⬅️</a></th>
+  <th scope="col" style="width: 50px; background-color: #ffffff;"><a href="/en/statement/2006-07-31-pv5500-res1696-2006-ip/">➡️</a></th>      
+</tr></table>
+
+
+The first UNSC meeting with regard to Iran's *non-compliance* of the International
+Atomic Energy Agency (IAEA) Non-proliferation Treaty agreement was on 29 March, 2006. 
+During this five minute meeting only the President of the UNSC made a 
+[statement](https://www.undocs.org/en/S/PRST/2006/15?direct=true). 
+This statement is one page of text.
+
+Nine years, and 46 UNSC meetings later, on 20 July 2015, the UNSC held the
+meeting to adopt resolution [2231(2015)](https://www.undocs.org/en/S/RES/2231(2015)?direct=true). 
+This meeting endorsed the Joint Comprehensive Plan of Action created in Vienna by 
+the five permanent members of the Security Council, plus Germany, the European Union and Iran. 
+During this 95 minute meeting, 18 statements were delivered. The resolution adopted fills 7 pages
+and includes a 97 page annex.
+
+Below is the list of UNSC meetings related to the Nuclear Non-proliferation
+issue involving Iran. The UNSC, in 13 cases, gave the meeting the topic of
+*Non-proliferation - Iran*, otherwise the meeting topic was *Non-proliferation*.
+
+At UNSC meetings where a draft resolution is proposed, the 5 permanent members
+and 10 non-permanent members vote on its adoption. The voting information
+below is in the form: affirmative - against - abstention. For example, in the
+case of the voting 12-2-1, twelve members are in favour of the resolution, two
+are against and one member abstained.
+
+The Meeting Records and Resolutions link to pdf files on the UNSC
+www.undocs.org servers, while the Press releases link to an htm file on
+www.un.org servers.
+
+There were six UNSC meetings that Iranian representatives were invited to attend 
+in accordance with [Rule 37](https://main.un.org/securitycouncil/content/rop/chapter-6) 
+of the Council's Provisional Rules of Procedure.
+ 
+The following are links to the statements by the Iranian representative at these meetings:
+
+* 2006-07-31 UNSC 5500th Meeting [Mr. Zarif](/en/statement/2006-07-31-pv5500-res1696-2006-ip/)
+* 2006-12-23 UNSC 5612th Meeting [Mr. Zarif](/en/statement/2006-12-23-pv5612-res1737-2006-ip/)
+* 2007-03-24 UNSC 5647th Meeting [Mr. Motaki](/en/statement/2007-03-24-pv5647-res1747-2007-ip/)
+* 2008-03-03 UNSC 5848th Meeting [Mr. Khazaee](/en/statement/2008-03-03-pv5848-res1803-2008-ip/)
+* 2010-06-28 UNSC 6335th Meeting [Mr. Khazaee](/en/statement/2010-06-09-pv6335-res1929-2010-ip/)
+* 2015-07-20 UNSC 7488th Meeting [Mr. Khoshroo](/en/statement/2015-07-20-pv7488-res2231-2015-ip/)
+
+<br>
+<!DOCTYPE html>
+<!-- Table of UNSC meetings 2006 to 20 July 2015 -->  
+<html>
+<head>
+  <meta name="generator" content= "text/html; charset=utf-8">
+  <title>UNSC Meetings</title>
+</head>
+<body>
+  <style type="text/css">
+    td.c5 {text-align: left; padding-top: 10px; padding-bottom: 1px; padding-left: 5px; padding-right: 5px}
+    td.c4 {text-align: center; padding-top: 10px; padding-bottom: 1px; padding-left: 5px; padding-right: 5px}
+    td.c3 {text-align: center; padding-top: 10px; padding-bottom: 1px; padding-left: 5px; padding-right: 5px}
+    td.c2 {text-align: center; font-weight:bold; padding-top: 10px; padding-bottom: 1px; 
+           padding-left: 5px; padding-right: 5px}
+    span.c1 {font-size: 1.2em; color: #000000}
+    
+    tr:nth-child(even){background-color: #f2f2f2;}
+    tr:hover {background-color: #ccc;}
+    
+  </style>
+  <table style="background-color: #e8e8e8; margin-left: auto; margin-right: auto;" border=2px > 
+    <!-- border: 1px solid black;">-->
+    <caption style="caption-side: top; color: black;">
+      <span class="c1">UNSC meetings related to Iran Nuclear Non-Proliferation 
+        from Presidential Statement on 29 March 2006 to Resolution 2231 (2015) on 20 July 2015.
+      </span> 
+    </caption>    
+    <tbody>
+      <tr>
+        <td class="c2"></td>
+        <td class="c2">
+          <p>Date</p>
+        </td>
+        <td class="c2">
+          <p>Meeting Record</p>
+        </td>
+        <td class="c2">
+          <p>Press release</p>
+        </td>
+        <td class="c2">
+          <p>Resolution</p>
+        </td>
+        <td class="c2">
+          <p>Voting</p>
+        </td>
+        <td class="c2">
+          <p>Iran Representative</p>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="c4">
+          <p>1</p>
+        </td>
+        <td class="c4">
+          <p>2006-03-29</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5403?direct=true">S/PV.5403</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2006/sc8679.doc.htm?direct=true">SC/8679</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PRST/2006/15?direct=true">S/PRST/2006/15</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+      
+      <tr>
+        <td class="c4">
+          <p>2</p>
+        </td>
+        <td class="c4">
+          <p>2006-07-31</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5500?direct=true">S/PV.5500</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2006/sc8792.doc.htm?direct=true">SC/8792</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/1696(2006)?direct=true?direct=true">S/RES/1696 (2006)</a></p>
+        </td>
+        <td class="c4">
+          <p>14-1-0</p>
+        </td>
+        <td class="c5">
+          <p><a href="/en/statement/2006-07-31-pv5500-res1696-2006-ip/">Mr. Zarif</a></p>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="c4">
+          <p>3</p>
+        </td>
+        <td class="c4">
+          <p>2006-12-23</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5612?direct=true">S/PV.5612</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2006/sc8928.doc.htm?direct=true">SC/8928</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/1737(2006)?direct=true">S/RES/1737 (2006)</a></p>
+        </td>
+        <td class="c4">
+          <p>15-0-0</p>
+        </td>
+        <td class="c5">
+          <p><a href="/en/statement/2006-12-23-pv5612-res1737-2006-ip/">Mr. Zarif</a></p>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="c4">
+          <p>4</p>
+        </td>
+        <td class="c4">
+          <p>2007-03-23</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5646?direct=true">S/PV.5646</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2007/sc8978.doc.htm?direct=true">SC/8978</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+      
+      <tr>
+        <td class="c4">
+          <p>5</p>
+        </td>
+        <td class="c4">
+          <p>2007-03-24</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5647?direct=true">S/PV.5647</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2007/sc8980.doc.htm?direct=true">SC/8980</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/1747(2007)?direct=true">S/RES/1747 (2007)</a></p>
+        </td>
+        <td class="c4">
+          <p>15-0-0</p>
+        </td>
+        <td class="c5">
+          <p><a href="/en/statement/2007-03-24-pv5647-res1747-2007-ip/">Mr. Motaki</a></p>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="c4">
+          <p>6</p>
+        </td>
+        <td class="c4">
+          <p>2007-06-21</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5702?direct=true">S/PV.5702</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2007/sc9055.doc.htm?direct=true">SC/9055</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+      
+      <tr>
+        <td class="c4">
+          <p>7</p>
+        </td>
+        <td class="c4">
+          <p>2007-09-19</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5743?direct=true">S/PV.5743</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2007/sc9118.doc.htm?direct=true">SC/9118</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+      
+      <tr>
+        <td class="c4">
+          <p>8</p>
+        </td>
+        <td class="c4">
+          <p>2007-12-18</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5807?direct=true">S/PV.5807</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2007/sc9205.doc.htm?direct=true">SC/9205</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+      
+      <tr>
+        <td class="c4">
+          <p>9</p>
+        </td>
+        <td class="c4">
+          <p>2008-03-03</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5848?direct=true">S/PV.5848</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2008/sc9268.doc.htm?direct=true">SC/9268</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/1803(2008)?direct=true">S/RES/1803 (2008)</a></p>
+        </td>
+        <td class="c4">
+          <p>14-0-1</p>
+        </td>
+        <td class="c5">
+          <p><a href="/en/statement/2008-03-03-pv5848-res1803-2008-ip/">Mr. Khazaee</a></p>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>10</p>
+        </td>
+        <td class="c4">
+          <p>2008-03-17</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5853?direct=true">S/PV.5853</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2008/sc9276.doc.htm?direct=true">SC/9276</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>11</p>
+        </td>
+        <td class="c4">
+          <p>2008-06-13</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5909?direct=true">S/PV.5909</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2008/sc9355.doc.htm?direct=true">SC/9355</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>12</p>
+        </td>
+        <td class="c4">
+          <p>2008-09-11</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5973?direct=true">S/PV.5973</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2008/sc9443.doc.htm?direct=true">SC/9443</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>13</p>
+        </td>
+        <td class="c4">
+          <p>2008-09-27</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.5984?direct=true">S/PV.5984</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2008/sc9459.doc.htm?direct=true">SC/9459</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/1835(2008)?direct=true">S/RES/1835 (2008)</a></p>
+        </td>
+        <td class="c4">
+          <p>15-0-0</p>
+        </td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>14</p>
+        </td>
+        <td class="c4">
+          <p>2008-12-10</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6036?direct=true">S/PV.6036</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2008/sc9526.doc.htm?direct=true">SC/9526</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>15</p>
+        </td>
+        <td class="c4">
+          <p>2009-03-10</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6090?direct=true">S/PV.6090</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2009/sc9610.doc.htm?direct=true">SC/9610</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>16</p>
+        </td>
+        <td class="c4">
+          <p>2009-06-15</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6142?direct=true">S/PV.6142</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2009/sc9680.doc.htm?direct=true">SC/9680</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>17</p>
+        </td>
+        <td class="c4">
+          <p>2009-12-10</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6235?direct=true">S/PV.6235</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2009/sc9811.doc.htm?direct=true">SC/9811</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>18</p>
+        </td>
+        <td class="c4">
+          <p>2010-03-04</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6280?direct=true">S/PV.6280</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2010/sc9873.doc.htm?direct=true">SC/9873</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>19</p>
+        </td>
+        <td class="c4">
+          <p>2010-06-08</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6334?direct=true">S/PV.6334</a></p>
+        </td>
+        <td class="c4">
+          <p>None issued</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6334?direct=true">Communiqué</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>20</p>
+        </td>
+        <td class="c4">
+          <p>2010-06-09</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6335?direct=true">S/PV.6335</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2010/sc9948.doc.htm?direct=true">SC/9948</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/1929(2010)?direct=true">S/RES/1929 (2010)</a></p>
+        </td>
+        <td class="c4">
+          <p>12-2-1</p>
+        </td>
+        <td class="c5">
+          <p><a href="/en/statement/2010-06-09-pv6335-res1929-2010-ip/">Mr. Khazaee</a></p>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>21</p>
+        </td>
+        <td class="c4">
+          <p>2010-06-28</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6344?direct=true">S/PV.6344</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2010/sc9961.doc.htm?direct=true">SC/9961</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>22</p>
+        </td>
+        <td class="c4">
+          <p>2010-09-15</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6384?direct=true">S/PV.6384</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2010/sc10029.doc.htm?direct=true">SC/10029</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>23</p>
+        </td>
+        <td class="c4">
+          <p>2010-12-10</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6442?direct=true">S/PV.6442</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2010/sc10109.doc.htm?direct=true">SC/10109</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>24</p>
+        </td>
+        <td class="c4">
+          <p>2011-03-22</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6502?direct=true">S/PV.6502</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2011/sc10206.doc.htm?direct=true">SC/10206</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>25</p>
+        </td>
+        <td class="c4">
+          <p>2011-06-09</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6552?direct=true">S/PV.6552</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2011/sc10276.doc.htm?direct=true">SC/10276</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/1984(2011)?direct=true">S/RES/1984 (2011)</a></p>
+        </td>
+        <td class="c4">
+          <p>14-0-1</p>
+        </td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>26</p>
+        </td>
+        <td class="c4">
+          <p>2011-06-23</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6563?direct=true">S/PV.6563</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2011/sc10292.doc.htm?direct=true">SC/10292</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>27</p>
+        </td>
+        <td class="c4">
+          <p>2011-09-07</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6607?direct=true">S/PV.6607</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2011/sc10376.doc.htm?direct=true">SC/10376</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>28</p>
+        </td>
+        <td class="c4">
+          <p>2011-12-21</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6697?direct=true">S/PV.6697</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2011/sc10502.doc.htm?direct=true">SC/10502</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>29</p>
+        </td>
+        <td class="c4">
+          <p>2012-03-21</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6737?direct=true">S/PV.6737</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2012/sc10584.doc.htm?direct=true">SC/10584</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>30</p>
+        </td>
+        <td class="c4">
+          <p>2012-06-07</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6781?direct=true">S/PV.6781</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2012/sc10666.doc.htm?direct=true">SC/10666</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/2049(2012)?direct=true">S/RES/2049 (2012)</a></p>
+        </td>
+        <td class="c4">
+          <p>15-0-0</p>
+        </td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>31</p>
+        </td>
+        <td class="c4">
+          <p>2012-06-12</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6786?direct=true">S/PV.6786</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2012/sc10673.doc.htm?direct=true">SC/10673</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>32</p>
+        </td>
+        <td class="c4">
+          <p>2012-09-20</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6839?direct=true">S/PV.6839</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2012/sc10770.doc.htm?direct=true">SC/10770</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>33</p>
+        </td>
+        <td class="c4">
+          <p>2012-12-13</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6888?direct=true">S/PV.6888</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2012/sc10856.doc.htm?direct=true">SC/10856</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>34</p>
+        </td>
+        <td class="c4">
+          <p>2013-03-06</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6930?direct=true">S/PV.6930</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2013/sc10932.doc.htm?direct=true">SC/10932</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>35</p>
+        </td>
+        <td class="c4">
+          <p>2013-06-05</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6973?direct=true">S/PV.6973</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2013/sc11023.doc.htm?direct=true">SC/11023</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/2105(2013)?direct=true">S/RES/2105 (2013)</a></p>
+        </td>
+        <td class="c4">
+          <p>15-0-0</p>
+        </td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>36</p>
+        </td>
+        <td class="c4">
+          <p>2013-07-15</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.6999?direct=true">S/PV.6999</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2013/sc11062.doc.htm?direct=true">SC/11062</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>37</p>
+        </td>
+        <td class="c4">
+          <p>2013-09-05</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7028?direct=true">S/PV.7028</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2013/sc11110.doc.htm?direct=true">SC/11110</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>38</p>
+        </td>
+        <td class="c4">
+          <p>2013-12-12</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7082?direct=true">S/PV.7082</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2013/sc11212.doc.htm?direct=true">SC/11212</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>39</p>
+        </td>
+        <td class="c4">
+          <p>2014-03-20</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7146?direct=true">S/PV.7146</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2014/sc11333.doc.htm?direct=true">SC/11333</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>40</p>
+        </td>
+        <td class="c4">
+          <p>2014-06-09</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7193?direct=true">S/PV.7193</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2014/sc11432.doc.htm?direct=true">SC/11432</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/2159(2014)?direct=true">S/RES/2159 (2014)</a></p>
+        </td>
+        <td class="c4">
+          <p>15-0-0</p>
+        </td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>41</p>
+        </td>
+        <td class="c4">
+          <p>2014-06-25</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7211?direct=true">S/PV.7211</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2014/sc11454.doc.htm?direct=true">SC/11454</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>42</p>
+        </td>
+        <td class="c4">
+          <p>2014-09-15</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7265?direct=true">S/PV.7265</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2014/sc11561.doc.htm?direct=true">SC/11561</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>43</p>
+        </td>
+        <td class="c4">
+          <p>2014-12-18</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7350?direct=true">S/PV.7350</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2014/sc11715.doc.htm?direct=true">SC/11715</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>44</p>
+        </td>
+        <td class="c4">
+          <p>2015-03-24</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7412?direct=true">S/PV.7412</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2015/sc11830.doc.htm?direct=true">SC/11830</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>45</p>
+        </td>
+        <td class="c4">
+          <p>2015-06-09</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7458?direct=true">S/PV.7458</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2015/sc11922.doc.htm?direct=true">SC/11922</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/2224(2015)?direct=true">S/RES/2224 (2015)</a></p>
+        </td>
+        <td class="c4">
+          <p>15-0-0</p>
+        </td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>46</p>
+        </td>
+        <td class="c4">
+          <p>2015-06-23</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7469?direct=true">S/PV.7469</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2015/sc11939.doc.htm?direct=true">SC/11939</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5"></td>
+      </tr>
+
+      <tr>
+        <td class="c4">
+          <p>47</p>
+        </td>
+        <td class="c4">
+          <p>2015-07-20</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.7488?direct=true">S/PV.7488</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.un.org/press/en/2015/sc11974.doc.htm?direct=true">SC/11974</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/RES/2231(2015)?direct=true">S/RES/2231 (2015)</a></p>
+        </td>
+        <td class="c4">
+          <p>15-0-0</p>
+        </td>
+        <td class="c5">
+          <p> <a href="/en/statement/2015-07-20-pv7488-res2231-2015-ip/">Mr. Khoshroo</a></p>
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
+  <br>
+</body>
+</html>
+
+
+<hr>
+<table><tr> <!-- Requires backcolor to over-ride main table default style -->
+  <th scope="col" style="width: 50px; background-color: #ffffff;"><a href="/en/">⬅️</a></th>
+  <th scope="col" style="width: 50px; background-color: #ffffff;"><a href="/en/statement/2006-07-31-pv5500-res1696-2006-ip/">➡️</a></th>
+  <th scope="col" style="width: 50px; background-color: #ffffff;"><a href="/en/statement/introduction/">⬆️</a></th>      
+</tr></table>
