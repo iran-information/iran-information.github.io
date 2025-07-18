@@ -38,6 +38,7 @@ The following are links to their statements:
 * 2024-06-24 UNSC 9666th Meeting [Mr. Iravani](/en/statement1/2024-06-24-pv9666-ip/)
 * 2024-12-17 UNSC 9818th Meeting [Mr. Iravani](/en/statement1/2024-12-17-pv9818-ip/)
 * 2025-03-12 UNSC 9877th Meeting [Mr. Iravani](/en/statement1/2025-03-12-pv9877-closed-ip/)
+* 2025-06-24 UNSC 9944th Meeting [Mr. Iravani](/en/statement1/2025-06-24-pv9944-ip/)
 
 <!--
 Mohammad Khazaee https://en.wikipedia.org/wiki/Mohammad_Khazaee
@@ -497,7 +498,27 @@ https://en.wikipedia.org/wiki/Permanent_Representative_of_Iran_to_the_United_Nat
         <td class="c5">
           <p><a href="/en/statement1/2025-03-12-pv8977-closed-ip/"> Mr. Iravani</a></p>
         </td>                
-      </tr>                       
+      </tr>    
+      
+      <tr>
+        <td class="c4">
+          <p>68</p>
+        </td>
+        <td class="c4">
+          <p>2025-06-24</p>
+        </td>
+        <td class="c4">
+          <p><a href="https://www.undocs.org/en/S/PV.9944?direct=true">S/PV.9944</a></p>
+        </td>
+        <td class="c4">
+          <p><a href="https://press.un.org/en/2025/sc16100.doc.htm?direct=true">SC/16100</a></p>
+        </td>
+        <td class="c4"></td>
+        <td class="c4"></td>
+        <td class="c5">
+          <p><a href="/en/statement1/2025-06-24-pv9944-ip/"> Mr. Iravani</a></p>
+        </td>                
+      </tr>                          
     <!-- Tail -->  
     </tbody>
   </table>
