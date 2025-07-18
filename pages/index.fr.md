@@ -10,7 +10,6 @@ type: text
 hidetitle: false
 ---
 
-<hr>
 <table><tr>
   <th scope="col" style="width: 50px;"><a href=""></a></th>
   <th scope="col" style="width: 50px;"><a href="/fr/statement/introduction/">➡️</a></th>    
@@ -25,6 +24,8 @@ Il peut être difficile de trouver le point de vue de l'Iran sur ces questions. 
 La résolution 2231(2015) du Conseil de sécurité des Nations unies, qui s'est tenue le 31 juillet 2015, a étendu l'implication du Conseil de sécurité des Nations Unies dans le programme nucléaire de l'Iran jusqu'à 10 ans après le jour de l'adoption. C'est le jour de l' Finalement. Il est prévu pour le 18 octobre 2025. Après cela, l'Iran poursuivra son programme nucléaire en conjonction avec la surveillance et l'assistance de l'AIEA, mais sans les contraintes de résolution du Conseil de sécurité des Nations unies.
 
 Depuis la mise en œuvre de la résolution du Conseil de sécurité le 31 juillet 2015, deux réunions du Conseil de sécurité des Nations unies ont eu lieu en moyenne chaque année, notamment par l'Iran, qui n'ont pas fait l'objet d'une intervention. En décembre 2018, l'Iran a été autorisé à assister et à prononcer une déclaration à ces réunions. [Après 2231(2015)](/fr/statement1/introduction1/), les déclarations faites par l'Iran depuis décembre 2018 aux réunions du Conseil de sécurité des Nations unies.
+
+La dernière réunion du Conseil de sécurité des Nations Unies relative à la résolution 2231 (2015) s’est tenue le 24 juin 2025.
 
 Ces déclarations font souvent référence aux documents du Conseil de sécurité, de l'ONU et de l'AIEA. Pour aider à comprendre les symboles et la systaxe de ces organisations, les systèmes de documentation, à examiner la vue d'ensemble de la [documentation](/fr/general/document-primer/).
 
