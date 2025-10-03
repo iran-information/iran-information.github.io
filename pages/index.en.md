@@ -25,7 +25,9 @@ UNSC resolution 2231(2015), held on 31 July 2015, extended UNSC involvement in I
 
 Since the UNSC resolution was implemented on 31 July 2015, there have been an average of two UNSC meetings each year involving Iran's *non-poliferation*. In December 2018 Iran was permitted to attend and deliver a statement at these meetings. [After 2231(2015)](/en/statement1/introduction1/) are the statements delivered by Iran since December 2018 at the UNSC meetings.
 
-The final UNSC meeting in relation to resolution 2231(2015) was held on 24 June 2025.
+The final, routine UNSC meeting in relation to resolution 2231(2015) was held on 24 June 2025. 
+
+The three EU representatives of the JCPOA sent their letter to the President of the UNSC requesting the invoking of the snap-back clause in Resolution 2231 (2015). The UNSC President drafted a resolution that would have prevented this action. This draft resolution was discussed and voted on in UNSC meeting 10001 on 19 Sepetember 2025.
 
 The statements frequently make references to UNSC, UN and IAEA documents. To aid with understanding the symbols and systax of these organisations documentation systems review the [documentation overview](/en/general/document-primer/).
 
@@ -35,3 +37,4 @@ The statements frequently make references to UNSC, UN and IAEA documents. To aid
   <th scope="col" style="width: 50px;"><a href="/en/statement/introduction/">➡️</a></th>
   <th scope="col" style="width: 50px;"><a href="/en/">⬆️</a></th>      
 </tr></table>
+
