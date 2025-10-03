@@ -25,7 +25,9 @@ La résolution 2231(2015) du Conseil de sécurité des Nations unies, qui s'est 
 
 Depuis la mise en œuvre de la résolution du Conseil de sécurité le 31 juillet 2015, deux réunions du Conseil de sécurité des Nations unies ont eu lieu en moyenne chaque année, notamment par l'Iran, qui n'ont pas fait l'objet d'une intervention. En décembre 2018, l'Iran a été autorisé à assister et à prononcer une déclaration à ces réunions. [Après 2231(2015)](/fr/statement1/introduction1/), les déclarations faites par l'Iran depuis décembre 2018 aux réunions du Conseil de sécurité des Nations unies.
 
-La dernière réunion du Conseil de sécurité des Nations Unies relative à la résolution 2231 (2015) s’est tenue le 24 juin 2025.
+La dernière réunion ordinaire du Conseil de sécurité de l'ONU concernant la résolution 2231(2015) a eu lieu le 24 juin 2025.
+
+Les trois représentants de l'UE au sein du groupe chargé de l'application du JCPOA ont adressé une lettre au président du Conseil de sécurité des Nations Unies, demandant l'activation de la clause de rétorsion prévue par la résolution 2231 (2015). Le président du Conseil de sécurité a alors préparé un projet de résolution visant à empêcher cette action. Ce projet de résolution a été examiné et soumis à vote lors de la 10001e séance du Conseil de sécurité, le 19 septembre 2025.
 
 Ces déclarations font souvent référence aux documents du Conseil de sécurité, de l'ONU et de l'AIEA. Pour aider à comprendre les symboles et la systaxe de ces organisations, les systèmes de documentation, à examiner la vue d'ensemble de la [documentation](/fr/general/document-primer/).
 
@@ -35,3 +37,4 @@ Ces déclarations font souvent référence aux documents du Conseil de sécurit�
   <th scope="col" style="width: 50px;"><a href="/fr/statement/introduction/">➡️</a></th>
   <th scope="col" style="width: 50px;"><a href="/fr/">⬆️</a></th>      
 </tr></table>
+
