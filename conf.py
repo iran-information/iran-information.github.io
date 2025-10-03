@@ -187,7 +187,8 @@ NAVIGATION_ALT_LINKS = {
                 ('/en/statement1/2024-06-24-pv9666-ip/', 'UNSC 9666 - 2024-06-24'),
                 ('/en/statement1/2024-12-17-pv9818-ip/', 'UNSC 9818 - 2024-12-17'),
                 ('/en/statement1/2025-03-12-pv9877-closed-ip/', 'UNSC 9877 - 2025-03-12'),
-                ('/en/statement1/2025-06-24-pv9944-ip/', 'UNSC 9944 - 2025-06-24'),                
+                ('/en/statement1/2025-06-24-pv9944-ip/', 'UNSC 9944 - 2025-06-24'),
+                ('/en/statement1/2025-09-19-pv10001-ip/', 'UNSC 10001 - 2025-09-19'),                
             ),
              'After 2231(2015)'
         ),                
@@ -225,7 +226,8 @@ NAVIGATION_ALT_LINKS = {
                 ('/fr/statement1/2024-06-24-pv9666-ip/', 'CSNU 9666 - 2024-06-24'),
                 ('/fr/statement1/2024-12-17-pv9818-ip/', 'CSNU 9818 - 2024-12-17'),
                 ('/fr/statement1/2025-03-12-pv9877-closed-ip/', 'CSNU 9877 - 2025-03-12'),
-                ('/fr/statement1/2025-06-24-pv9944-ip/', 'CSNU 9944 - 2025-06-24'),                                
+                ('/fr/statement1/2025-06-24-pv9944-ip/', 'CSNU 9944 - 2025-06-24'),
+                ('/fr/statement1/2025-09-19-pv10001-ip/', 'CSNU 10001 - 2025-09-19'),
             ),
              'Après 2231(2015)'
         ),                
@@ -1525,3 +1527,4 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
